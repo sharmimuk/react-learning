@@ -1,5 +1,5 @@
 const onClick = () => {
-
+    console.log('button clicked')
 }
 
 const Button = ({ color, text }) => {
